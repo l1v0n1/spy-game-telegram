@@ -14,7 +14,7 @@ This is a Telegram bot that allows users to play a spy game where players try to
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/spy-game-telegram.git
+git clone https://github.com/l1v0n1/spy-game-telegram.git
 cd spy-game-telegram
 ```
 
